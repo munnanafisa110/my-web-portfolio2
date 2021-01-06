@@ -1,0 +1,97 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size:50px;
+}
+.header{
+    color:indianred;
+}
+.normal{
+    font-family: 'Noto Sans JP', sans-serif;
+   
+}
+.half-area{
+    width:40%;
+    float:left;
+    margin-left:5% ;
+    padding-left: 2%;
+}
+.half-area img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    font-family: 'Noto Sans JP', sans-serif;
+    padding: 15px 40px;
+   
+    border-radius: 10px;
+    background-color:salmon;
+}
+.third-banner{
+    background-color: white;
+    
+}
+.exper{
+    clear:both;
+    text-align: center;
+}
+.image1 img{
+    width:90%;
+    text-align:right;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.first-section{
+    background-color:whitesmoke;
+    width: 25%;
+    margin: 5px 10px 25px 50px;
+    float: left;
+  padding: 5px;
+}
+.last-banner{
+    background-color:seashell;
+}
+.work{
+    clear:both;
+    background-color: slateblue;
+    width: 50%;
+    padding: 20px 30px 50px 30px;
+    margin: 30px 60px 40px 250px;
+    float: left;
+    display:inline-block;
+    
+    
+}
+.last1{
+    width: 70px;
+    float: left;
+    display: inline-block;
+
+}
+.link-button2{
+    text-decoration: none;
+    font-family: 'Noto Sans JP', sans-serif;
+    padding: 15px 30px;
+    border-radius: 10px;
+    background-color:salmon;
+    display:inline-block;
+    margin: 30px 60px 20px 450px;
+    float: left;
+
+}
+#ending{
+    clear: both;
+    color: slategrey;
+    text-align: center;
+}
+.fa-band-aid{
+    height: 3%;
+  width: 2%;
+}
+
